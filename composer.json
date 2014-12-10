@@ -1,0 +1,7 @@
+{
+    "require":
+    {
+  		"monolog/monolog": "1.11.0",
+  		"zendframework/zendpdf": "2.0.2"
+    }
+}
